@@ -52,4 +52,27 @@ The backend will start on http://localhost:8080.
    ```
 The frontend will be available at http://localhost:3000.
 
+## Usage
+
+### Main Chat Room
+
+1. **Send a Message in Main Chat Room**
+   - Navigate to the chat application.
+   - Enter your username and click "Connect".
+   - Select the "Chat room" tab.
+   - Type your message in the input box and click "Send".
+
+
+### Room Creation and Switching
+
+1. **Create a New Room**
+   - Click on the "Create Room" button.
+   - Enter the room name and click "Create".
+   - The new room will be added to the member list.
+
+2. **Switch Between Rooms**
+   - Click on any room name from the member list.
+   - You will enter the selected room and can send messages within that room.
+  
+
 
