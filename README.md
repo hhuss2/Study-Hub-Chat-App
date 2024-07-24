@@ -15,6 +15,11 @@ Study Hub is a real-time chat application that utilizes Spring Boot for the back
 - **Database**: In-memory message storage
 
 ## Setup and Installation
+### Prerequisites
+
+- Java 17 or later
+- Maven 3.x
+- npm or yarn
 
 ### Backend Setup
 
