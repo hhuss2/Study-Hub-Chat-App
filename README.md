@@ -21,6 +21,35 @@ Study Hub is a real-time chat application that utilizes Spring Boot for the back
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/study-hub-chat-app.git
-   cd study-hub-chat-app/server
+   git clone https://github.com/hhuss2/Study-Hub-Chat-App.git
+   cd Study-Hub-Chat-App/server
    ```
+2. **Build the Applicatoin**
+   ```bash
+   mvn clean install
+   ```
+3. **Run the Applicatoin**
+   ```bash
+   mvn spring-boot:run
+   ```
+The backend will start on http://localhost:8080.
+
+### Frontend Setup
+1. **Navigate to the Frontend Directory**
+
+   ```bash
+   cd ../client
+   ```
+2. **Install Dependencies**
+
+   ```bash
+   npm install
+   ```
+3. **Start the React Application**
+
+   ```bash
+   npm start
+   ```
+The frontend will be available at http://localhost:3000.
+
+
