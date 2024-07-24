@@ -79,5 +79,15 @@ The frontend will be available at http://localhost:3000.
    - Click on any room name from the member list.
    - You will enter the selected room and can send messages within that room.
   
+## Demo
+On the initial page, a user puts their name and connects to the chat room.
+<img width="1439" alt="Screenshot 2024-07-24 at 2 55 57 PM" src="https://github.com/user-attachments/assets/55d9ecf1-2fbb-4c5b-92a3-04c44aa704bb">
+
+After a user has connected, they can see the chat rooms and the users online.
+<img width="1437" alt="Screenshot 2024-07-24 at 3 01 58 PM" src="https://github.com/user-attachments/assets/f288c015-58a8-4217-a033-175bba83e797">
+
+Users can interact with each other on the chat page and join specific chat rooms.
+<img width="1436" alt="Screenshot 2024-07-24 at 3 05 39 PM" src="https://github.com/user-attachments/assets/a8570941-fa5a-4495-a57f-1286b1fa37e9">
+
 
 
