@@ -1,7 +1,7 @@
 # Study Hub Chat Application
 
 
-Study Hub is a real-time chat application that utilizes Spring Boot for the backend and React for the frontend. It supports public chat rooms, private messaging, and dynamic room creation.
+Study Hub is a real-time chat application that utilizes Spring Boot for the backend and React for the frontend. It supports public chat rooms and dynamic room creation.
 
 ## Features
 
