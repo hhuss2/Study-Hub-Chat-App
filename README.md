@@ -27,7 +27,7 @@ Study Hub is a real-time chat application that utilizes Spring Boot for the back
 
    ```bash
    git clone https://github.com/hhuss2/Study-Hub-Chat-App.git
-   cd Study-Hub-Chat-App/server
+   cd server
    ```
 2. **Build the Applicatoin**
    ```bash
@@ -89,5 +89,10 @@ After a user has connected, they can see the chat rooms and the users online.
 Users can interact with each other on the chat page and join specific chat rooms.
 <img width="1436" alt="Screenshot 2024-07-24 at 3 05 39 PM" src="https://github.com/user-attachments/assets/a8570941-fa5a-4495-a57f-1286b1fa37e9">
 
+Users join a specific chat room to study together.
+<img width="1438" alt="Screenshot 2024-07-24 at 11 13 00 PM" src="https://github.com/user-attachments/assets/530b7352-03c2-4916-abec-7c800f82b755">
 
+Users can create a new chat room.
+<img width="1437" alt="Screenshot 2024-07-24 at 11 16 36 PM" src="https://github.com/user-attachments/assets/9ae31220-5712-494d-8b54-2866d8a60545">
+<img width="1438" alt="Screenshot 2024-07-24 at 11 17 00 PM" src="https://github.com/user-attachments/assets/ffdfb531-e39b-46c5-86fb-87795c610237">
 
