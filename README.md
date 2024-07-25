@@ -77,7 +77,7 @@ The frontend will be available at http://localhost:3000.
    - The new room will be added to the list of chat rooms.
 
 2. **Switch Between Rooms**
-   - Click on any room name from the member list.
+   - Click on any room name from the list.
    - You will enter the selected room and can send messages within that room.
   
 ## Demo
