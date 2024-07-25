@@ -73,8 +73,7 @@ The frontend will be available at http://localhost:3000.
 ### Room Creation and Switching
 
 1. **Create a New Room**
-   - Click on the "Create Room" button.
-   - Enter the room name and click "Create".
+   - Enter the room name and click "Create Room".
    - The new room will be added to the list of chat rooms.
 
 2. **Switch Between Rooms**
