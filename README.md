@@ -1,5 +1,6 @@
 # Study Hub Chat Application
 
+
 Study Hub is a real-time chat application that utilizes Spring Boot for the backend and React for the frontend. It supports public chat rooms, private messaging, and dynamic room creation.
 
 ## Features
@@ -15,6 +16,7 @@ Study Hub is a real-time chat application that utilizes Spring Boot for the back
 - **Database**: In-memory message storage
 
 ## Setup and Installation
+
 ### Prerequisites
 
 - Java 17 or later
@@ -29,11 +31,11 @@ Study Hub is a real-time chat application that utilizes Spring Boot for the back
    git clone https://github.com/hhuss2/Study-Hub-Chat-App.git
    cd server
    ```
-2. **Build the Applicatoin**
+2. **Build the Application**
    ```bash
    mvn clean install
    ```
-3. **Run the Applicatoin**
+3. **Run the Application**
    ```bash
    mvn spring-boot:run
    ```
@@ -63,7 +65,7 @@ The frontend will be available at http://localhost:3000.
 
 1. **Send a Message in Main Chat Room**
    - Navigate to the chat application.
-   - Enter your username and click "Connect".
+   - Enter your name and click "Connect".
    - Select the "Chat room" tab.
    - Type your message in the input box and click "Send".
 
@@ -73,7 +75,7 @@ The frontend will be available at http://localhost:3000.
 1. **Create a New Room**
    - Click on the "Create Room" button.
    - Enter the room name and click "Create".
-   - The new room will be added to the member list.
+   - The new room will be added to the list of chat rooms.
 
 2. **Switch Between Rooms**
    - Click on any room name from the member list.
